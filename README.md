@@ -1,2 +1,27 @@
-# Daily-Task
-DailyDo Pro is a responsive productivity dashboard web application built using HTML, CSS, and JavaScript. It helps users manage daily tasks, track goals, and monitor progress with a clean and modern interface. The project demonstrates front-end development skills and is hosted using GitHub Pages for online access.
+Oasis Infobyte Internship
+
+Domain: Web Development
+
+Task 6 – To-Do Web App
+
+Objective:
+To create a Daily Task / To-Do web application using HTML, CSS and JavaScript.
+
+Tools Used:
+HTML
+CSS
+JavaScript
+
+Description:
+This project is a To-Do / Daily Task web application developed as part of the Oasis Infobyte Internship.
+The user can add tasks, delete tasks and manage daily activities.
+JavaScript is used for functionality and CSS is used for styling.
+
+Features:
+Add task
+Delete task
+Task list
+Simple UI
+
+Result:
+Project completed successfully.
